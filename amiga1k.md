@@ -11,5 +11,4 @@ categories:
 tags:
   - Commodore
   - Amiga 1000
-  - 1985
 ---
