@@ -1,6 +1,6 @@
 ---
 author: aggelos2000430
-image_url: /images/IBM_Screen_Reader.jpg
+image_url: /images/ibm_screen_reader.jpg
 title: IBM Screen Reader
 year: 1986
 caption:  Ο Screen Reader της IBM, ήταν μια διεπαφή χρήστη που βοηθούσε ανθρώπους με περιορισμένη όραση να επικοινωνούν με τον ηλεκτρονικό υπολογιστή και αρχικά ήταν διαθέσιμο μόνο σε λειτουργικό σύστημα βασισμένο σε κείμενο, ενώ σε επόμενη έκδοση έγινε συμβατό και με λεςιτουργικό σύστημα με γραφικά
